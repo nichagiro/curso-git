@@ -1,1 +1,5 @@
-console.log('funciona')
+console.log('funciona') 
+
+const name = ()=>{
+    return "Nicolas";
+}
