@@ -1,11 +1,9 @@
 console.log('funciona') 
 
-const name = ()=>{
-    return " NICOLAS CHAMORRO GIRON";
-}
+const name = 'NICOOLAS';
 
 addEventListener('');
 
 const update = data = () => {
-    console.log('first');   
+    console.log(name);   
 }
