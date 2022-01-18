@@ -1,15 +1,11 @@
 console.log('funciona') 
 
 const name = ()=>{
-<<<<<<< HEAD
-    return "ANGEL";
-}
-=======
-    return "Nicolas";
+    return " NICOLAS CHAMORRO GIRON";
 }
 
-fetch("form.php",{
-    body: "Nicolas",
-    method:"POST"
-}).then(data => response)
->>>>>>> php
+addEventListener('');
+
+const update = data = () => {
+    console.log('first');   
+}
