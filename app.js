@@ -4,6 +4,8 @@ const name = 'NICOOLAS';
 
 addEventListener('');
 
-const update = data = () => {
+const gurro = () => {
     console.log(name);   
 }
+
+this.gurro();
