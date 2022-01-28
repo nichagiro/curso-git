@@ -1,5 +1,9 @@
 const PruebaData = () => {
-    console.log('first');
+    name('nicolas');
+
+    const name = data => {
+        alert(data);
+    }
 }
 
 export default PruebaData;
