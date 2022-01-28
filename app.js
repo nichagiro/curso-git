@@ -1,13 +1,5 @@
-console.log('funciona') 
-
-const name = 'NICOOLAS';
-
-addEventListener('');
-
-const gurro = () => {
-    console.log(name);   
+const PruebaData = () => {
+    console.log('first');
 }
 
-this.gurro();
-
-//siempre seras la niña que me llene
+export default PruebaData;
