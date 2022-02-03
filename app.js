@@ -9,6 +9,10 @@ const PruebaData = () => {
     const ape = ape =>{
         alert(ape)
     }
+
+    const fullName = () => {
+         alert(ape + name)
+    }
 }
 
 export default PruebaData;
